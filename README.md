@@ -1,6 +1,6 @@
 From
 
-- dotnet-sdk-2.1.3-win-x86.zip
-- dotnet-sdk-2.1.3-win-x64.zip
+- Microsoft.Diagnostics.DbgShim.win-x64 7.0.421201
+- Microsoft.Diagnostics.DbgShim.win-x86 7.0.421201
 
-https://www.microsoft.com/net/download/core
+https://www.nuget.org/packages/Microsoft.Diagnostics.DbgShim
